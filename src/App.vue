@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Bandeira Brasil" src="./assets/bandeira-do-brasil-flag-brazil-52211.png">
+  <HelloWorld msg="Welcome to Go Portugues"/>
 </template>
 
 <script>
